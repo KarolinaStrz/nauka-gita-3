@@ -12,6 +12,9 @@ h1 {
 	text-transform: uppercase;
 	text-align: center;
 }
-p{
-	text-align: center;
+.song {
+	margin: 0 auto;
+	text-align: justify;
+	width:400px;
+	margin-top: 20px;
 }
